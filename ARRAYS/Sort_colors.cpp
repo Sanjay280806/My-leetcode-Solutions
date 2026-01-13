@@ -1,7 +1,7 @@
 /*
 LeetCode No.75 - Sort Colors
 https://leetcode.com/problems/sort-colors/
-TECHNIQUE USED: Dutch National Flag Algorithm
+TECHNIQUE USED: Dutch National Flag Algorithm with 3 pointers
 --------------------------------------------------------
 TIME COMPLEXITY: O(n) 
 SPACE COMPLEXITY: O(1)
