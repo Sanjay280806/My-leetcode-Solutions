@@ -1,3 +1,11 @@
+/*
+    Problem: 27.Remove Element
+    LeetCode: https://leetcode.com/problems/remove-element/
+    Difficulty: Easy
+    
+    Time Complexity: O(n)
+    Space Complexity: O(1)
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
