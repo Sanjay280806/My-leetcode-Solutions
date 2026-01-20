@@ -31,6 +31,7 @@ public:
 
 int main() {
     int numRows;
+    cout << "Enter number of rows: ";
     cin >> numRows;
 
     Solution obj;
