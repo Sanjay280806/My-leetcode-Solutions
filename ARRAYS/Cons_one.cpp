@@ -1,6 +1,6 @@
 // LeetCode 485 — Max Consecutive Ones: Scan the array once, count current streak of 1s, reset on 0, and track the maximum streak encountered.
 
-#include <vector>
+#include <bits/stdc++.h>
 #include <algorithm>
 using namespace std;
 
